@@ -11,7 +11,7 @@ I'm from KU.CSC
 ---
 
 ## Languages/Tools
-[![My Skills](https://skillicons.dev/icons?i=kali,git,github,linux,bash,apple,vim,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,git,github,linux,bash,apple,vim,vscode,py,c,cpp)](https://skillicons.dev)
 
 
 ## My project
