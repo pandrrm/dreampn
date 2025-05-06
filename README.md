@@ -12,7 +12,3 @@ I'm pannawat aka. pandrrm
 ## Languages/Tools
 [![My Skills](https://skillicons.dev/icons?i=kali,git,github,linux,bash,apple,vim,vscode,py,c,cpp)](https://skillicons.dev)
 
-
-## My project
-- weather-cli [(Link)](https://github.com/dreampn/weather-cli)
-
