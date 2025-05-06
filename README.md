@@ -4,9 +4,8 @@
 
 <h1 align="center">Pannawat (dreampn) </h1>
 
-I'm pannawat aka. dreampn
+I'm pannawat aka. pandrrm
 
-I'm from KU.CSC
 
 ---
 
